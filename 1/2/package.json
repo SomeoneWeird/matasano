@@ -1,0 +1,18 @@
+{
+  "name": "matasano-1-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bitwise-xor": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -R spec tests"
+  },
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "BSD"
+}
